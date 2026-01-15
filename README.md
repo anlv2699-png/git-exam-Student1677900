@@ -18,4 +18,4 @@ The repository initially contains the following files:
 
 Each file must be properly tracked using Git.
 
----
+--
